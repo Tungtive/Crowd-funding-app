@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="insurance+"/>
+    <version value="14"/>
+    <list>
+        <mapping class ="com.DC.android.db.Project"/>
+        <mapping class ="com.DC.android.db.Plan"/>
+        <mapping class ="com.DC.android.db.News"/>
+        <mapping class ="com.DC.android.db.User"/>
+    </list>
+</litepal>
